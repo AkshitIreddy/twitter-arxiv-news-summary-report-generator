@@ -1,0 +1,179 @@
+{
+  "news": [
+    {
+      "username": "john_doe",
+      "id": 12345,
+      "text": "Just had a great day at the beach!",
+      "link": "https://example.com/john_doe/beach-day",
+      "date": "20220429"
+    },
+    {
+      "username": "TheRundownAI",
+      "id": "1664626691870793729",
+      "text": "Tweet: Top stories in AI today:\n\n-Nvidia Neuralangelo AI turns video into 3D worlds\n-AI drone goes rogue\n-TIME\u2019s new cover warns of AI extinction\n-11 fresh new AI tools & resources\n\nRead more here: https://therundown.ai/p/nvidia-neuralangelo\u2026\n\n",
+      "link": "",
+      "date": "20230603"
+    },
+    {
+      "username": "rowancheung",
+      "id": "1664670142939242497",
+      "text": "Tweet: Regular ChatGPT generated text is generic and unimpressive.\n\nMany people don't know this, but you can train ChatGPT to write exactly like you.\n\nHere's how to do it in six easy steps:\n\n",
+      "link": "",
+      "date": "20230603"
+    },
+    {
+      "username": "rowancheung",
+      "id": "1664670146995027977",
+      "text": "Tweet: Step 2: Open ChatGPT and use this prompt.\n\nThis tells ChatGPT that the following prompts will be for learning your writing.\n\nYou can copy the entire prompt in the image's ALT text below.\n\n",
+      "link": "",
+      "date": "20230603"
+    },
+    {
+      "username": "rowancheung",
+      "id": "1664670144516222984",
+      "text": "Tweet: Step 1: Collect some samples of your writing.\n\nI write a daily AI newsletter (link in bio), so I'll be using that as my writing sample.\n\nYou can use emails, documents, essays, or anything else you've written.\n\nThe KEY is to use your best writing pieces. ChatGPT will learn it.\n\n",
+      "link": "",
+      "date": "20230603"
+    },
+    {
+      "username": "rowancheung",
+      "id": "1664670150900207621",
+      "text": "Tweet: Step 4: Type \"FINISHED\" when you're done.\n\nOnce you've fed ChatGPT enough writing (I recommend 5 pieces minimum), type \"FINISH\" to let ChatGPT know you're done.\n\n",
+      "link": "",
+      "date": "20230603"
+    },
+    {
+      "username": "rowancheung",
+      "id": "1664670149209882625",
+      "text": "Tweet: Step 3: Feed ChatGPT your sample writing.\n\nSimply paste your best writing pieces, and wait for ChatGPT's \"CONTINUE\" response before pasting more.\n\nYou can train it with as little as two pieces, but the more writing you provide, the better the output will be.\n\n",
+      "link": "",
+      "date": "20230603"
+    },
+    {
+      "username": "rowancheung",
+      "id": "1664670155022954504",
+      "text": "Tweet: Step 6: Test your newly trained chat. \n\nChatGPT is now trained on your writing style. \n\nTry testing ChatGPT to write an article on a topic based on your newly named style and see how accurate it is.\n\nExample prompt: \"Write a paragraph on [Vancouver] using [The Rundown Style]\"\n\n",
+      "link": "",
+      "date": "20230603"
+    },
+    {
+      "username": "rowancheung",
+      "id": "1664670153194209292",
+      "text": "Tweet: Step 5: Name your style.\n\nSince I used my writing pieces from my newsletter, I'm going with \"The Rundown Style.\"\n\n",
+      "link": "",
+      "date": "20230603"
+    },
+    {
+      "username": "rowancheung",
+      "id": "1664670156826505217",
+      "text": "Tweet: This prompt was taken straight from my advanced ChatGPT guide.\n\nIt's about 20x the size of this thread and contains all the most useful prompts in one spot.\n\nAuto-sending it to everyone for free right now when you sign up for my AI newsletter: https://therundown.ai/subscribe\n\n",
+      "link": "",
+      "date": "20230603"
+    },
+    {
+      "username": "rowancheung",
+      "id": "1664670965836414987",
+      "text": "Tweet: One last thing- contrary to popular belief, this thread was NOT free.\n\nI spent all day making this, so I'm hoping you honor the gentlemen's agreement:\n\n1. Follow me \n@rowancheung\n for more\n2. Retweet the tweet below to share with your friends \n\n",
+      "link": "",
+      "date": "20230603"
+    },
+    {
+      "username": "DrJimFan",
+      "id": "1664653027121459200",
+      "text": "Tweet: AI is everything everywhere all at once.\n\nNo more siloes, just the one.\n\n",
+      "link": "",
+      "date": "20230603"
+    },
+    {
+      "username": "DrJimFan",
+      "id": "1664675911554457600",
+      "text": "Tweet: What is a \"cup\"? To LLMs, it is a word. But to us, it is a full sensory package: the visual appearance, the 3D topology, the ceramic texture of the handle, the sound of it landing on a table.\n\nTo gain a far deeper understanding of concepts, the next-gen AI needs to develop\u2026Show more\n\n",
+      "link": "",
+      "date": "20230603"
+    },
+    {
+      "username": "DrJimFan",
+      "id": "1664676601492312065",
+      "text": "Tweet: Project site: https://objectfolder.stanford.edu\nLatest paper: https://arxiv.org/abs/2306.00956\nAuthors: \n@RuohanGao1\n @_YimingDou\n, Hao Li, Tanmay Agarwal, \n@leto__jean\n, \n@YunzhuLiYZ\n, \n@drfeifei\n, \n@jiajunwu_cs\n from Stanford Vision Lab, my PhD home.\n\nCongrats on the extraordinary work!\n \nObjectFolder A dataset of multisensory neural and real objects and a benchmark suite for multisensory object-centric learning, centered around object recognition, reconstruction, and manipulation with sight, sound, and touch. Overview. ObjectFolder models the multisensory behaviors of real objects with 1) ObjectFolder 2.0, a dataset of 1,000 neural objects in the form of implicit neural representations with simulated multisensory data, and 2) ObjectFolder Real, a dataset that contains the multisensory measurements for 100 real-world household objects, building upon a newly designed pipeline for collecting the 3D meshes, videos, impact sounds, and tactile readings of real-world objects. It also contains a standard benchmark suite of 10 tasks for multisensory object-centric learning, centered around object recognition, reconstruction, and manipulation with sight, sound, and touch. We open source both datasets and the benchmark suite to catalyze and enable new research in multisensory object-centric learning in computer vision, robotics, and beyond. ObjectFolder Datasets ObjectFolder-Real 100 real-world household objects. A tailored data collection pipeline for each modality. For vision, we scan the 3D meshes of objects in a dark room and record HD videos of each object rotating in a lightbox. For audio, we build a professional anechoic chamber with a tailored object platform and then collect impact sounds by striking the objects at different surface locations with an impact hammer. For touch, we equip a Franka Emika Panda robot arm with a GelSight robotic finger and collect tactile readings at the exact surface locations where impact sounds are collected. Explore ObjectFolder-Real ObjectFolder 2.0 1,000 multisensory neural objects. Each neural object is represented by an Object File, a compact neural network that encodes the object's intrinsic visual, acoustic, and tactile sensory data. Querying the Object File with extrinsic parameters (e.g., camera viewpoint and lig",
+      "link": "https://arxiv.org/abs/2306.00956",
+      "date": "20230603"
+    },
+    {
+      "username": "DrJimFan",
+      "id": "1664691541187923968",
+      "text": "Tweet: Very insightful discussions of AI's impact on scientific breakthroughs and society at PCAST (President's Council of Advisors on Science & Technology).\n\nFeatures prominent speakers like \n@AnimaAnandkumar\n (NVIDIA & Caltech), \n@drfeifei\n (Stanford), and \n@demishassabis\n (DeepMind).\u2026 Show more\n\n",
+      "link": "",
+      "date": "20230603"
+    },
+    {
+      "username": "AlphaSignalAI",
+      "id": "1664701217900056596",
+      "text": "Tweet: The entire motion capture industry is about to change.\n\n4DHumans utilizes a fully \"transformerized\" network, HMR 2.0, for human mesh recovery. This network is capable of analyzing a single image or video and creating detailed 3D models of the people in it. \n\nThese 3D models are\u2026 Show more\n\n",
+      "link": "",
+      "date": "20230603"
+    },
+    {
+      "username": "AlphaSignalAI",
+      "id": "1664778377121636478",
+      "text": "Tweet: Can PDFs be fed to GPT's API yet?\n\n",
+      "link": "",
+      "date": "20230603"
+    },
+    {
+      "username": "DataChaz",
+      "id": "1664591160155807744",
+      "text": "Tweet: What a great app! \n@Alphasecio\n just stacked all of \n@LangChainAI\n's Generative Goodness\u2122 in one simple, multipage \n@streamlit\n  app!\n\n https://langchain-examples.streamlit.app\n\n ",
+      "link": "",
+      "date": "20230603"
+    },
+    {
+      "username": "DataChaz",
+      "id": "1664603621982367751",
+      "text": "Tweet: Here's the code! \nA collection of apps powered by the LangChain LLM framework. - langchain-examples/Home.py at main * alphasecio/langchain-examples A tag already exists with the provided branch name. Many Git commands accept both tag and branch names, so creating this branch may cause unexpected behavior. Are you sure you want to create this branch? \n",
+      "link": "https://github.com/alphasecio/langchain-examples/blob/main/all-in-one/Home.py",
+      "date": "20230603"
+    },
+    {
+      "username": "DataChaz",
+      "id": "1664610135514259457",
+      "text": "Tweet: Here's an improved video mock-up.\n\nThanks gawd for the mighty \n@screenstudio\n! \n\n",
+      "link": "",
+      "date": "20230603"
+    },
+    {
+      "username": "DataChaz",
+      "id": "1664659742038392840",
+      "text": "Tweet: Hey #ChatGPT, finish this building!\n\nGreat idea from http://impact.be, a Belgian agency specializing in construction jobs!\n\n - via \n@KMartenon\n\n",
+      "link": "",
+      "date": "20230603"
+    },
+    {
+      "username": "DataChaz",
+      "id": "1664695649730809868",
+      "text": "Tweet: .\n@BostonDynamics\n: hold my \n\n",
+      "link": "",
+      "date": "20230603"
+    },
+    {
+      "username": "DataChaz",
+      "id": "1664697714678853632",
+      "text": "Tweet: And, on a separate note, that space between Chat and GPT is giving me anxiety\n\n",
+      "link": "",
+      "date": "20230603"
+    },
+    {
+      "username": "DataChaz",
+      "id": "1664758163155943425",
+      "text": "Tweet: Darn, this tweet is blowing!!\n\nWhile you're here, follow me \n@datachaz\n for more #AI news! \n\n",
+      "link": "",
+      "date": "20230603"
+    },
+    {
+      "username": "DataChaz",
+      "id": "1664896394094686209",
+      "text": "Tweet: Handy! #ChatGPT's sidebar is now fully collapsible! \n\n",
+      "link": "",
+      "date": "20230603"
+    }
+  ]
+}
